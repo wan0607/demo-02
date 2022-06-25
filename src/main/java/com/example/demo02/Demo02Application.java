@@ -8,6 +8,7 @@ public class Demo02Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Demo02Application.class, args);
+        System.out.println("second");
     }
 
 }
